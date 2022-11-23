@@ -1,5 +1,7 @@
 import os
 a=20
+b=200
+c=300
 if a>20 :
     print("a is grtr")
 elif a<20 :
