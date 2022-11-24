@@ -8,4 +8,3 @@ elif a<20 :
     print("a is lessthan 20 ")  
 else:
     print("a is equel to 20")
-
